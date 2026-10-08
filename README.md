@@ -81,7 +81,6 @@ Branding assets are intended for Roaya Academy's own website use. Third-party ma
 
 ## Contact
 
-**Website:** https://roaya-academyeg.netlify.app/
 
 For registration, course details, and inquiries, please use the contact options available on the website.
 
@@ -100,6 +99,5 @@ For registration, course details, and inquiries, please use the contact options 
 
 **توضيح بخصوص STEM:** الشعار الموجود بالموقع يخص شهادة **STEM.org Certified Educational Instructor** للمدرّس، ولا يعني بالضرورة أن الأكاديمية نفسها معتمدة كمؤسسة من STEM.org. لم يتم التحقق المستقل من حالة الشهادة ضمن هذا التحديث.
 
-**الموقع:** https://roaya-academyeg.netlify.app/
 
 يمكن معرفة تفاصيل البرامج والتسجيل والتواصل من خلال الموقع الإلكتروني.
